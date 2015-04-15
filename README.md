@@ -1,2 +1,2 @@
 # joomla
-important things of joomla to remeber
+important things of joomla to remember
